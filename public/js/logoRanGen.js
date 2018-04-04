@@ -10,5 +10,3 @@ function displayImage(){
     console.log(num);
     document.getElementById('test').innerHTML = imagesArray[num];
 }
-
-// console.log("Hello");
